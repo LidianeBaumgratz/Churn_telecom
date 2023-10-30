@@ -1,5 +1,5 @@
 # Data_Analytics
-## Projeto de Análise de Churn em Telecomunicações com Power BI
+# Projeto de Análise de Churn em Telecomunicações com Power BI
 
 Este projeto tem como objetivo analisar o churn em uma empresa de telecomunicações usando o Power BI. O churn refere-se à taxa de perda de clientes ao longo do tempo e é um fator crítico para a lucratividade das empresas de telecomunicações.
 
