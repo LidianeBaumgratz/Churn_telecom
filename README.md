@@ -73,6 +73,9 @@ Zip Code: O CEP da residência principal do cliente.
 # Preparação dos Dados
 A maioria dos tratamentos dos dados foi realizada com o uso do Power Query Editor, ferramenta para preparar e tratar o dado no Power BI.
 
+# A visualizaçao do Dashboard pode ser feita através desse link:
+https://app.powerbi.com/view?r=eyJrIjoiNTY2YzU2MDItNmUxYi00NDE2LWJkYTMtNmQ2YmE3ZjA3NWMzIiwidCI6ImYxYzVjZDJiLTUyNWMtNDRlMy1hNGY5LWU0Y2VkNTA4YWExYyJ9
+
 # Tratamentos dos Dados no Power Query Editor
 Abaixo seguem os tratamentos realizados:
 
